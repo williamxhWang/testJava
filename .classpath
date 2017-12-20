@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/D_DISK/lib/kafka_2.10-0.8.0.jar" sourcepath="C:/Users/hoffman_wang/.m2/repository/org/apache/kafka/kafka_2.10/0.8.0/kafka_2.10-0.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/scala-compiler-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/scala-library-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/scala-reflect-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/zkclient-0.3.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/zookeeper-3.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/D_DISK/lib/hessian-4.0.51.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
